@@ -52,5 +52,3 @@ The VPN connection was established successfully. After connecting, the public IP
 ## Conclusion
 This task provided practical experience in setting up and using a VPN. It helped in understanding how VPNs enhance online privacy, how encrypted communication works, and why VPNs are useful in cyber security. It also showed that VPNs are helpful security tools, but they are not a complete replacement for safe online behavior.
 
-## Submission Note
-This repository contains the task report, screenshots, and README file for internship submission.
